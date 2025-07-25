@@ -1,0 +1,58 @@
+
+--- Bus Ticket Booking ---
+1. Show Available Buses
+2. Book Ticket
+3. Exit
+Choose an option: 1    
+
+Available Buses:
+Bus No: 101, Route: Tirupathi to kalluru,Price per person:150, Seats Available: 40
+Bus No: 102, Route: Tirupathi to vijayawada,Price per person:500, Seats Available: 40
+Bus No: 103, Route: Tirupathi to punganur,Price per person:100, Seats Available: 40
+
+--- Bus Ticket Booking ---
+1. Show Available Buses
+2. Book Ticket
+3. Exit
+Choose an option: 2  
+Enter Passenger Name: Ganesh
+Enter Bus Number to Book: 101
+Ticket Booked Successfully!
+Passenger: Ganesh, Bus No: 101
+
+--- Bus Ticket Booking ---
+1. Show Available Buses
+2. Book Ticket
+3. Exit
+Choose an option: 2
+Enter Passenger Name: Roshan
+Enter Bus Number to Book: 102
+Ticket Booked Successfully!
+Passenger: Roshan, Bus No: 102
+
+--- Bus Ticket Booking ---
+1. Show Available Buses
+2. Book Ticket
+3. Exit
+Choose an option: 2
+Enter Passenger Name: Navaneeth
+Enter Bus Number to Book: 103
+Ticket Booked Successfully!
+Passenger: Navaneeth, Bus No: 103
+
+--- Bus Ticket Booking ---
+1. Show Available Buses
+2. Book Ticket
+3. Exit
+Choose an option: 1
+
+Available Buses:
+Bus No: 101, Route: Tirupathi to kalluru,Price per person:150, Seats Available: 39
+Bus No: 102, Route: Tirupathi to vijayawada,Price per person:500, Seats Available: 39
+Bus No: 103, Route: Tirupathi to punganur,Price per person:100, Seats Available: 39
+
+--- Bus Ticket Booking ---
+1. Show Available Buses
+2. Book Ticket
+3. Exit
+Choose an option:
